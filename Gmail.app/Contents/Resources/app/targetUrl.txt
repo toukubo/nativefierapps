@@ -1,0 +1,1 @@
+{"name":"Gmail","targetUrl":"https://mail.google.com","badge":true}

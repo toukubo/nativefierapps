@@ -1,0 +1,1 @@
+{"name":"Trello","targetUrl":"https://trello.com/","badge":true}
